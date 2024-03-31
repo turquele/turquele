@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @turquele
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end web development at Trilogy’s Skills Bootcamp
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development since long time ago.
+- 🌱 I’m currently learning full stack development (self taught), currently /react/next.js/tailwindCSS
+- 💞️ I’m looking to collaborate on..
 - 📫 jose.m.alonso.g@gmail.com
 
 <!---
